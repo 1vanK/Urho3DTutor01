@@ -1,3 +1,7 @@
+*Более актуальная версия находится тут: <https://github.com/urho3d-learn/direct-gapi-usage>.*
+
+---
+
 # Urho3D: Движок в движке
 Данный туториал является продолжением [цикла статей на Хабрахабре](https://habrahabr.ru/users/1vank/topics/).
 
